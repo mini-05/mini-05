@@ -13,8 +13,8 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jan117)](https://solved.ac/jan117)
 
 #### 😀 Github Status
-![mini-05's GitHub stats](https://github-readme-stats.vercel.app/api?username=mini-05&show_icons=true&theme=radical&title_color=99ccff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini-05&layout=compact&theme=radical&title_color=99ccff)](https://github.com/mini-05)
+![mini-05's GitHub stats](https://github-readme-stats.vercel.app/api?username=mini-05&show_icons=true&theme=radical&title_color=99ccff)
 <!--
 **mini-05/mini-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
