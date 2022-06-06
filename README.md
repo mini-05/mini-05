@@ -27,7 +27,7 @@
 --> 
 <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mini-05&show_icons=true&theme=radical&include_all_commits=true&title_color=99ccff">
-  <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-05&layout=compact&theme=radical&title_color=99ccff">
+  <img height="157em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-05&layout=compact&theme=radical&title_color=99ccff">
 </p>
 
 
