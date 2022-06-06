@@ -12,12 +12,73 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
+<!--
+[![I'm a night🦉]([https://gist.github.com/mini-05/94c57bee3de8492fba307b46561cf208)](https://gist.github.com/mini-05/94c57bee3de8492fba307b46561cf208)]
+-->
+
 ## 🎖️ Ranking
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jan117)](https://solved.ac/jan117)
 
 ## 😀 Github Status
+<!--
 ![mini-05's GitHub stats](https://github-readme-stats.vercel.app/api?username=mini-05&show_icons=true&theme=radical&title_color=99ccff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini-05&layout=compact&theme=radical&title_color=99ccff)](https://github.com/mini-05)
+아래와 동일한 출력이지만, 위는 사이즈 고정됨.
+--> 
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mini-05&show_icons=true&theme=radical&include_all_commits=true&title_color=99ccff">
+  <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-05&layout=compact&theme=radical&title_color=99ccff">
+</p>
+
+
+
+
+<!--START_SECTION:waka-->
+<!--
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    43 commits     █████░░░░░░░░░░░░░░░░░░░░   23.24% 
+🌃 Evening    65 commits     ████████░░░░░░░░░░░░░░░░░   35.14% 
+🌙 Night      67 commits     █████████░░░░░░░░░░░░░░░░   36.22%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
+Tuesday      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+Wednesday    49 commits     ██████░░░░░░░░░░░░░░░░░░░   26.49% 
+Thursday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.78% 
+Friday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
+Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+Sunday       63 commits     ████████░░░░░░░░░░░░░░░░░   34.05%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Python                   5 hrs 52 mins       █████████████████████░░░░   85.61% 
+C                        37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.37%
+
+```
+-->
+
+
+
+
+
+
+
+
+<!--END_SECTION:waka-->
 
 <!--
 **mini-05/mini-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
