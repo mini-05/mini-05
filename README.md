@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--[](https://visitor-badge.glitch.me/badge?page_id=mini-05) -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://github.com/mini-05)                  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://github.com/mini-05)
+[![wakatime](https://wakatime.com/badge/user/2d653c00-38ff-4cbf-9b7b-bcfca55d6629.svg)](https://wakatime.com/@2d653c00-38ff-4cbf-9b7b-bcfca55d6629)
 <!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/mini-05/)](https://github.com/mini-05/)  -->
 
 #### 📖 be learning
@@ -12,7 +13,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
-<!--
+<!-- veggie-garden's github profile처럼 꾸미고 싶다!!!
 [![I'm a night🦉]([https://gist.github.com/mini-05/94c57bee3de8492fba307b46561cf208)](https://gist.github.com/mini-05/94c57bee3de8492fba307b46561cf208)]
 -->
 
@@ -30,7 +31,10 @@
   <img height="157em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-05&layout=compact&theme=radical&title_color=99ccff">
 </p>
 
+![mini-05's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mini05)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!--START_SECTION:waka-->
