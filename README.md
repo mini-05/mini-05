@@ -34,7 +34,7 @@
 ![mini-05's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mini05)
 
 ---
-<!-- Waka 추가 수정하기 (https://github.com/anmol098/waka-readme-stats#flags-available) & (https://github.com/anmol098/waka-readme-stats/blob/master/action.yml) -->
+<!-- Waka 추가 수정하기 (https://github.com/anmol098/waka-readme-stats#flags-available) & (https://github.com/anmol098/waka-readme-stats/blob/master/action.yml) (https://github.com/anmol098/waka-readme-stats#update-your-readme) -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
