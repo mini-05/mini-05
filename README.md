@@ -37,6 +37,7 @@
 <!-- Waka 추가 수정하기 (https://github.com/anmol098/waka-readme-stats#flags-available) & (https://github.com/anmol098/waka-readme-stats/blob/master/action.yml) (https://github.com/anmol098/waka-readme-stats#update-your-readme) -->
 
 <!--START_SECTION:waka-->
+<!--
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
@@ -54,6 +55,7 @@
 > 🔑 5 Private Repositories  
  > 
 **I'm a Night 🦉** 
+-->
 
 ```text
 🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
@@ -75,7 +77,7 @@ Sunday       18 commits     █████░░░░░░░░░░░░�
 
 ```
 
-
+<!--
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -108,8 +110,10 @@ C++                      5 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/mini-05/mini-05/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/06/2022 16:25:38 UTC
+ Last Updated on 06/06/2022 16:25:38 UTC -->
 <!--END_SECTION:waka-->
+
+
 
 <!--
 **mini-05/mini-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
