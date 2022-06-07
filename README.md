@@ -13,10 +13,6 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
-<!-- veggie-garden's github profile처럼 꾸미고 싶다!!!
-[![I'm a night🦉]([https://gist.github.com/mini-05/94c57bee3de8492fba307b46561cf208)](https://gist.github.com/mini-05/94c57bee3de8492fba307b46561cf208)]
--->
-
 ## 🎖️ Ranking
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jan117)](https://solved.ac/jan117)
 
@@ -54,8 +50,8 @@
  > 
 > 🔑 5 Private Repositories  
  > 
-**I'm a Night 🦉** 
 -->
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
